@@ -1,0 +1,11 @@
+assignment od day 1
+Answer 1
+
+time complexity O(N) 
+
+space complexity O(c)
+where c is constant
+
+Answer 2
+a) X will  be a better choice for all inputs
+
